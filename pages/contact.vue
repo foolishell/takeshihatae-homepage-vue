@@ -4,10 +4,10 @@
       <h3>お問い合わせ</h3>
       <div class="contact__mail">
         <p><a class="contact__mail--address" href="mailto:contact@takeshihatae.com">contact@takeshihatae.com</a>にご連絡</p>
-        <p class="contact__mail--or">または</p>
       </div>
+<!-- 
       <div class="contact__form">
-          <form  name="contact" method="post" action="" data-netlify="true" data-netlify-honeypot="bot-field">
+        <form  name="contact" method="post" action="" data-netlify="true" data-netlify-honeypot="bot-field">
           <input type="hidden" name="bot-field" />
           <input type="hidden" name="form-name" value="contact" />
           <dl>
@@ -31,6 +31,7 @@
           <div class="btn"><button type="submit" class="submit-btn">送信</button></div>
         </form>
       </div>
+-->
     </div>
   </div>
 </template>
