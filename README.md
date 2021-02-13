@@ -4,6 +4,9 @@
 編集するファイル
 https://github.com/Kai180621/takeshihatae-homepage/blob/master/assets/json/information.yml
 
+ここで確認
+https://kai180621.github.io/takeshihatae-homepage/
+
 編集方法 information.ymlにここを追加して情報を入れるだけ
 ```
 - date: ''
